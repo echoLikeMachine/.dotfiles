@@ -1,6 +1,6 @@
 Net/ThemeName "Adwaita-dark"
 Net/IconThemeName "Tela-black"
-Gtk/CursorThemeName "Bibata-Modern-Classic"
+Gtk/CursorThemeName "Bibata-Modern-Ice"
 Gtk/CursorThemeSize "16"
 Net/EnableEventSounds "0"
 Net/EnableInputFeedbackSounds "0"
