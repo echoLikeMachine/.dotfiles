@@ -4,6 +4,8 @@ numlockx &
 
 picom &
 
+pipewire &
+
 redshift &
 
 #thunar
@@ -18,4 +20,4 @@ xrdb -merge ~/.Xresources
 
 xsettingsd &
 
-exec awesome
+exec dbus-run-session awesome
