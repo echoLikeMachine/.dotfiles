@@ -1,0 +1,37 @@
+// Eww.scss config
+// ----------------------------------------------
+// Copyright (c) 2026 github.com/echoLikeMachine
+
+
+
+// Reset básico
+* {
+  all: unset;
+}
+
+
+.bar {
+  background-color: #111111; // Cor de fundo da barra
+  border-radius: 7px;
+}
+
+
+.clock-container {
+  background-color: #111111; // Cor do container do relógio
+  color: #E7E9E5;            // Cor do texto
+  //padding: 5px;
+  margin: 5px 0px;           // Espaçamento vertical para centralizar na barra
+  border-radius: 5px;       // Cantos arredondados
+  font-weight: bold;
+  min-width: 50px;          // Largura mínima do container
+  min-height: 10px;
+
+  border: 1px solid #E7E9E5;
+}
+
+
+.clock-text {
+  font-size: 9px;
+  font-family: "JetBrains Mono Nerd Font", sans-serif;
+  background-color: transparent;
+}

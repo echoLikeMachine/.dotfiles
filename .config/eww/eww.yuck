@@ -1,0 +1,44 @@
+;; Configuração Eww
+;; ----------------------------------------------
+;; Copyright (c) 2026 github.com/echoLikeMachine
+
+
+
+;; Variável que atualiza tempo
+(defpoll time :interval "5s"
+  "date '+%H:%M'")
+
+
+
+;; Definição do Widget de Relógio
+(defwidget clock_widget []
+  (box :class "clock-container"
+       :orientation "h"
+       :space-evenly false
+       :halign "center"
+    (label :text time :class "clock-text" :hexpand true :halign "center")))
+
+
+
+;; Definição da Janela (Barra)
+(defwindow bar
+  :monitor 0
+  :windowtype "dock"
+  :stacking "fg" ;; "fg" garante que fique acima das janelas no X11
+  :wm-ignore false
+  :reserve (struts :distance "32px" :side "top") ;; Reserva espaço para não cobrir janelas
+  :geometry (geometry :x "0%"
+                      :y "3px"
+                      :width "80%"  ;; Defina o comprimento aqui
+                      :height "25px" ;; Defina a altura aqui
+                      :anchor "top center")
+
+
+
+  ;; Usamos centerbox para garantir que o relógio fique exatamente no meio
+  (centerbox :orientation "h"
+    (box) ;; Lado esquerdo vazio
+    (clock_widget) ;; Centro
+    (box) ;; Lado direito vazio
+  )
+)
