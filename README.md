@@ -4,12 +4,12 @@
 
 <details>
 <summary>Instalação</summary>
-  ```bash
-  git clone https://github.com/echoLikeMachine/.dotfiles.git
-  ```
+```bash
+git clone https://github.com/echoLikeMachine/.dotfiles.git
+```
 </details>
 
-## Configuração inclue:
+## Configuração
 - Servidor de exibição - Xorg
 - Window Manager - BSPWM
 - Compositor - Picom
