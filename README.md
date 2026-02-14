@@ -4,6 +4,7 @@
 
 <details>
 <summary>Instalação</summary>
+ 
   ```bash
   git clone https://github.com/echoLikeMachine/.dotfiles.git
   ```
