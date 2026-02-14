@@ -3,7 +3,7 @@
 ## Minha configuração pessoal para Arch Linux - BSPWM + EWW
 
 <details>
-  <sumary></sumary>
+  <sumary>Instalação</sumary>
     git clone https://github.com/echoLikeMachine/.dotfiles.git
 </details>
 
