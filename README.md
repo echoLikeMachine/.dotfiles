@@ -4,7 +4,9 @@
 
 <details>
   <sumary>Instalação</sumary>
-    git clone https://github.com/echoLikeMachine/.dotfiles.git
+```
+git clone https://github.com/echoLikeMachine/.dotfiles.git
+```
 </details>
 
 ## Configuração inclue:
@@ -23,3 +25,5 @@
 
 - Tema de cursor
 - Fontes
+
+
