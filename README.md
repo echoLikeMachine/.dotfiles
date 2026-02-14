@@ -2,12 +2,11 @@
 
 ## Minha configuração pessoal para Arch Linux - BSPWM + EWW
 
-<details>
-<sumary>Instalação</sumary>
+<Instalação>
 ```bash
 git clone https://github.com/echoLikeMachine/.dotfiles.git
 ```
-</details>
+</Instalação>
 
 ## Configuração inclue:
 - Servidor de exibição - Xorg
