@@ -1,25 +1,26 @@
-Minhas configurações pessoais para Linux - BSPWM + EWW
 
-Instalação:
-git clone https://github.com/echoLikeMachine/.dotfiles.git
+## Minha configuração pessoal para Arch Linux - BSPWM + EWW
 
+<details>
+  <sumary>Instalação</sumary>
+  ...
+  git clone https://github.com/echoLikeMachine/.dotfiles.git
+  ...
+</details>
 
+## Configuração inclue:
+- Servidor de exibição - Xorg
+- Window Manager - BSPWM
+- Compositor - Picom
+- Sistema de Widgets - Eww
 
+- Redshift
+- Yazi
+- Fastfetch
+- Alacritty
+- St
+- Xresources
+- Xsettingsd
 
-
-Minhas configurações incluem:
-# Básicos
-servidor de exibição Xorg/
-terminal - st e alacritty/
-window manager - bspwm
-barra e widgets - eww
-compositor - picom
-xsettingsd
-Xresources
-xinitrc
-
-# Secundários
-redshift
-cava
-yazi
-fastfetch
+- Tema de cursor
+- Fontes
