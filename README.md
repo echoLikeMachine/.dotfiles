@@ -3,8 +3,8 @@
 ## Minha configuração pessoal para Arch Linux - BSPWM + EWW
 
 <details>
-  <sumary>Instalação</sumary>
-```
+<sumary>Instalação</sumary>
+```bash
 git clone https://github.com/echoLikeMachine/.dotfiles.git
 ```
 </details>
@@ -25,5 +25,3 @@ git clone https://github.com/echoLikeMachine/.dotfiles.git
 
 - Tema de cursor
 - Fontes
-
-
