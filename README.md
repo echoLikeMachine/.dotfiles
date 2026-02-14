@@ -1,6 +1,6 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
 
-## 🐙 Minha configuração pessoal para Arch Linux - BSPWM + EWW
+## Minha configuração pessoal para Arch Linux - BSPWM + EWW
 
 <details>
 <summary>Instalação</summary>
