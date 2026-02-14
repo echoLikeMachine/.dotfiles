@@ -8,7 +8,7 @@ git clone https://github.com/echoLikeMachine/.dotfiles.git
 
 
 Minhas configurações incluem:
-> Básicos
+# Básicos
 servidor de exibição Xorg
 terminal - st e alacritty
 window manager - bspwm
@@ -18,7 +18,7 @@ xsettingsd
 Xresources
 xinitrc
 
-> Secundários
+# Secundários
 redshift
 cava
 yazi
