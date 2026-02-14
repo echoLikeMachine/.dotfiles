@@ -1,12 +1,13 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
 
-## Minha configuração pessoal para Arch Linux - BSPWM + EWW
+## 🐙 Minha configuração pessoal para Arch Linux - BSPWM + EWW
 
-<Instalação>
+<details>
+<summary>Instalação</summary>
 ```bash
 git clone https://github.com/echoLikeMachine/.dotfiles.git
 ```
-</Instalação>
+</details>
 
 ## Configuração inclue:
 - Servidor de exibição - Xorg
